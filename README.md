@@ -1,4 +1,4 @@
-## Hi there 👋
+BSc Cyber Security Student at the University of Warwick
 
 <!--
 **OscarTopliss/OscarTopliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
