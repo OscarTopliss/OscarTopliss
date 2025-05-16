@@ -1,6 +1,6 @@
 BSc Cyber Security Student at the University of Warwick
 
-VP @ Warwick CyberSoc
+VP @ [Warwick CyberSoc](https://warwickcybersoc.com/)
 
 <!--
 **OscarTopliss/OscarTopliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
